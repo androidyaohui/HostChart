@@ -33,6 +33,7 @@ import java.util.concurrent.Executors;
 
 /**
  * 车机端
+ *yaojun
  */
 
 public class MainActivity extends AppCompatActivity implements UsbDetachedReceiver.UsbDetachedListener, OpenDevicesReceiver.OpenDevicesListener, View.OnClickListener {
